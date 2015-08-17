@@ -1,0 +1,14 @@
+{
+  "name": "wordy-words",
+  "description": "list of English words with shorter synonyms",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com)",
+  "keywords": [
+    "English",
+    "language",
+    "style",
+    "words"
+  ],
+  "license": "CC0-1.0",
+  "repository": "kemitchell/wordy-words"
+}
