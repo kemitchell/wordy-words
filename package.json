@@ -10,5 +10,8 @@
     "words"
   ],
   "license": "CC0-1.0",
-  "repository": "kemitchell/wordy-words"
+  "repository": "kemitchell/wordy-words",
+  "devDependencies": {
+    "kimble-plain-words": "^1.0.0"
+  }
 }
