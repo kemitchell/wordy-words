@@ -1,4 +1,5 @@
-{ "accomplish": "do",
+{
+  "accomplish": "do",
   "accordingly": "so",
   "a considerable amount": "many",
   "additional": "added",
@@ -112,4 +113,5 @@
   "verification": "proof",
   "whenever": "when",
   "whilst": "while",
-  "witnessed": "saw" }
+  "witnessed": "saw"
+}
